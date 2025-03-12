@@ -5,5 +5,5 @@ The project is based on Windows performance counters (pdh.h, pdh.lib)
 
 Monitor displays cpu, RAM, video card load and occupied video memory capacity.
 
-![alt text]([http://url/to/img.png](https://i.postimg.cc/xTF4wQby/image.png))
+![alt text](https://i.postimg.cc/xTF4wQby/image.png)
 
